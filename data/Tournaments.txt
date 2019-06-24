@@ -1,0 +1,89 @@
+﻿TournamentID	SportID	TournamentName
+1	7	1. Division
+2	7	1. liga
+3	7	1a Divisao
+4	11	1st Division
+5	11	1st Liga
+6	7	2nd Bundesliga
+7	12	AFL
+8	7	Allsvenskan
+9	11	Alps Hockey League
+10	7	Asobal
+11	4	Basketligaen
+12	4	BBL
+13	7	Bundesliga
+14	2	CFL
+15	7	Champions League
+16	4	Club Friendlies
+17	11	Club Friendlies
+18	2	College
+19	7	Cup
+20	9	Currie Cup
+21	7	Damehandboldligaen
+22	7	Division De Honor Femenina
+23	11	EBEL
+24	11	Ekstraliga
+25	11	Elite League
+26	11	Eliteserien
+27	7	Elitserien
+28	9	English Premiership
+29	11	Erste Liga
+30	6	Extraliga
+31	7	Extraliga
+32	11	Extraliga
+33	4	FIBA World Championship
+34	13	FIVB World Championship Men
+35	7	Handboldligaen
+36	11	Hockey Allsvenskan
+37	11	HockeyEttan Norra
+38	11	HockeyEttan Ostra
+39	11	HockeyEttan Sodra
+40	11	HockeyEttan Vastra
+41	7	Int. Friendly Games
+42	11	KHL
+43	13	KOVO Cup
+44	11	Latvian Hockey League
+45	4	League Cup
+46	4	Liga ABA
+47	4	Liga ABA Super Cup
+48	7	Liga Nationala
+49	11	Ligue Magnus
+50	4	LKL
+51	4	LNB
+52	7	LNH Division 1
+53	7	LNH Division 1 Men
+54	7	Meistriliiga
+55	13	Mestaruusliiga
+56	11	MHL
+57	7	MNLA
+58	2	National Football League
+59	6	National League
+60	11	National League A
+61	11	National League B
+62	7	NB I
+63	4	NBL
+64	11	NHL
+65	9	NPC
+66	9	NRL
+67	9	NSW Cup
+68	4	PBA
+69	4	Pro A
+70	9	Pro D2
+71	9	Pro14
+72	9	RFU Championship
+73	6	Salibandyliiga
+74	7	SEHA League
+75	11	SHL
+76	7	SM-liiga
+77	11	SM-Liiga
+78	4	Spagnola ACB
+79	9	Super 8s
+80	7	Super League
+81	11	Superisligaen
+82	7	Superliga
+83	9	The Rugby Championship
+84	6	UFL
+85	7	Urvalsdeild
+86	11	VHL
+87	4	WNBA
+88	7	Women Bundesliga
